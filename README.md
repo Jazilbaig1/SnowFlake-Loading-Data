@@ -103,5 +103,3 @@ Inside Snowflake, the project covers:
 # In Summary
 
 This project showcases a modern cloud data architecture where Snowflake serves as the central analytics platform, integrating with cloud storage, streaming services, and BI tools to deliver scalable, secure, and performant data solutions.
-
-![Uploading diagram.png…]()
